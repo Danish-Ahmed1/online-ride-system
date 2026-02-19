@@ -1,0 +1,14 @@
+body{
+    padding-top:80px;
+    font-family:Arial, sans-serif;
+}
+
+.hero{
+    padding:120px 0;
+}
+
+.ride-card{
+    background:#f6f6f6;
+    padding:25px;
+    border-radius:15px;
+}
